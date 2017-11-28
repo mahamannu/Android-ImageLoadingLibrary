@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMDB</string>
+    <string name="Popularity">Popularity : </string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="cast">Cast</string>
+    <string name="crew">Crew</string>
+    <string name="teasers_and_trailers">Teasers And Trailers</string>
+    <string name="posters">Posters</string>
+</resources>
